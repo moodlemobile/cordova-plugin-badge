@@ -20,16 +20,16 @@
 
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
         xmlns:android="http://schemas.android.com/apk/res/android"
-        id="cordova-plugin-badge"
-        version="0.8.8">
+        id="@moodlehq/cordova-plugin-badge"
+        version="0.8.8-moodle.1">
 
     <name>Badge</name>
 
     <description>Shows the count of unread messages as a badge on the app icon.</description>
 
-    <repo>https://github.com/katzer/cordova-plugin-badge.git</repo>
+    <repo>https://github.com/moodlemobile/cordova-plugin-badge.git</repo>
 
-    <issue>https://github.com/katzer/cordova-plugin-badge/issues</issue>
+    <issue>https://github.com/moodlemobile/cordova-plugin-badge/issues</issue>
 
     <keywords>appplant, badge, shortcutbadger</keywords>
 
