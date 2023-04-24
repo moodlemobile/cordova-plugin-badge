@@ -1,3 +1,7 @@
+# DEPRECATED
+
+This fork is deprecated because the fix for the original plugin has been released to npm. Please use [katzer/cordova-plugin-badge](https://github.com/katzer/cordova-plugin-badge) instead.
+
 # cordova-plugin-badge (fork)
 
 This is a fork of `cordova-plugin-file-badge` by [Moodle HQ](https://moodle.com/). If you are looking for the documentation, you can read the original at [katzer/cordova-plugin-badge](https://github.com/katzer/cordova-plugin-badge).
